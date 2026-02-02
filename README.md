@@ -24,8 +24,6 @@ Instead of buying rarely used tools, users can find what they need nearby — sa
 
 ---
 
-##  Getting Started
-
 ## License
 
 - This project is for educational purposes
@@ -35,6 +33,7 @@ Instead of buying rarely used tools, users can find what they need nearby — sa
 - **Ali Hakan Ünal** — Lead developer, responsible for system and database design, as well as end-to-end application development.
 - **Burak Ertan** — Supporting developer, focusing on database improvements, bug fixing, and frontend feature enhancements.
 
+##  Getting Started
 
 ### Prerequisites
 Make sure you have the following installed:
